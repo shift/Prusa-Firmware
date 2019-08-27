@@ -15,7 +15,7 @@
 # 3. Install zip with 'apt-get install zip'
 # 4. Install python3 with 'apt-get install python3'
 # 5. Add command 'ln -sf /usr/bin/python3.5 /usr/bin/python' to link python3 to python.
-#    Donnot istall 'python' as python 2.x has end of life see https://pythonclock.org/
+#    Do not install 'python' as python 2.x has end of life see https://pythonclock.org/
 # 6. Add at top of ~/.bashrc following lines by using 'sudo nano ~/.bashrc'
 #
 #    export OS="Linux"
